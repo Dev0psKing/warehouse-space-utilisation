@@ -23,3 +23,19 @@ In this documentation, we strip away the complexity and rebuild the concept of w
 ---
 *Ready to start? Let's look at the physics.*
 👉 [**Go to Warehouse Physics**](warehouse-physics.md)
+
+
+---
+
+## 👤 Author
+
+**Uwabor**  
+*Building technical solutions for Supply Chain & Logistics.*
+
+*   **Blog:** [Forem](https://forem.com/devopsking)
+*   **Connect:** [LinkedIn](https://linkedin.com/in/collins-uwabor)
+
+---
+
+*Starred this repo? ⭐ Feel free to fork it and adapt it for your own facility!*
+```
