@@ -71,7 +71,24 @@ The Excel model included in this repository calculates:
 
 ## 🗂 Repository Structure
 
-
+```
+warehouse-space-utilization/
+│
+├── README.md
+│
+├── docs/
+│   ├── index.md
+│   ├── warehouse-physics.md
+│   ├── cubic-utilisation.md
+│   ├── pallet-utilisation.md
+│   └── case-study.md
+│
+├── template/
+│   └── Warehouse_Space_Utilization_Calculator.xlsx
+│
+└── assets/
+    └── screenshots/
+```
 
 
 - **docs/** → Technical explanations and framework logic  
