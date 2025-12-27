@@ -65,7 +65,7 @@ The Excel model included in this repository calculates:
 `/template/Warehouse_Space_Utilization_Calculator.xlsx`
 
 📥 Download:  
-[Download the Excel Utilization Calculator](template/Warehouse_Space_Utilization_Calculator.xlsx)
+[Download the Excel Utilization Calculator](https://github.com/Dev0psKing/warehouse-space-utilisation/blob/master/Warehouse_Space_Utilization_Calculator.xlsx)
 
 ---
 
