@@ -71,3 +71,53 @@ The Excel model included in this repository calculates:
 
 ## 🗂 Repository Structure
 
+
+
+
+- **docs/** → Technical explanations and framework logic  
+- **template/** → Excel utilization calculator  
+- **assets/** → Visual references (screenshots, diagrams)
+
+---
+
+## 🚀 How to Use This Project
+
+1. Review the documentation in the `/docs` folder to understand the logic  
+2. Open the Excel template and enter:
+   - Warehouse dimensions  
+   - Pallet dimensions  
+   - Inventory counts  
+   - Rack configuration  
+3. Use the calculated KPIs to:
+   - Identify space bottlenecks  
+   - Support layout redesign decisions  
+   - Communicate capacity insights to stakeholders  
+
+---
+
+## 📌 Why This Project Matters
+
+Warehouse utilization is often misunderstood because volume and slot availability are mixed together.
+
+This framework helps teams:
+- Stop guessing about capacity  
+- Avoid premature warehouse expansion  
+- Improve storage efficiency using data, not intuition  
+
+---
+
+## 📄 Related Article
+
+This project is based on the concepts explained in the article:
+
+**A Definitive Guide to Warehouse Utilisation**  
+https://forem.com/devopsking/a-definitive-guide-to-warehouse-utilisation-3b33
+
+---
+
+## 🤝 Author
+
+**Uwabor Collins**  
+Project Manager | Supply Chain & Cloud Engineering Enthusiast  
+
+Feel free to explore, adapt, and build upon this framework.
