@@ -34,4 +34,4 @@ When this gap exists, **do not rent more space.** You must fix the profile.
 
 ---
 *You have reached the end of the guide.*
-👈 [**Previous: Pallet Utilisation**](pallet-utilisation.md) | 🏠 [**Back to Home**](index.md)
+👈 [**Previous: Pallet Utilisation**](pallet-utilisation.md) | 🏠 [**Back to Home**](readme.md)
