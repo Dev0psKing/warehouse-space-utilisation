@@ -132,9 +132,15 @@ https://forem.com/devopsking/a-definitive-guide-to-warehouse-utilisation-3b33
 
 ---
 
-## 🤝 Author
+## 👤 Author
 
-**Uwabor Collins**  
-Operations Manager | Supply Chain Analyst | Business Analyst  
+**Uwabor**  
+*Building technical solutions for Supply Chain & Logistics.*
 
-Feel free to explore, adapt, and build upon this framework.
+*   **Blog:** [Forem](https://forem.com/devopsking)
+*   **Connect:** [LinkedIn](https://linkedin.com/in/collins-uwabor)
+
+---
+
+*Starred this repo? ⭐ Feel free to fork it and adapt it for your own facility!*
+```
