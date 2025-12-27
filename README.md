@@ -118,6 +118,6 @@ https://forem.com/devopsking/a-definitive-guide-to-warehouse-utilisation-3b33
 ## 🤝 Author
 
 **Uwabor Collins**  
-Project Manager | Supply Chain & Cloud Engineering Enthusiast  
+Operations Manager | Supply Chain Analyst | Business Analyst  
 
 Feel free to explore, adapt, and build upon this framework.
