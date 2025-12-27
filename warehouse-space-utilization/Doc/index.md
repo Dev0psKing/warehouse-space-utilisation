@@ -22,6 +22,6 @@ In this documentation, we strip away the complexity and rebuild the concept of w
 
 ---
 *Ready to start? Let's look at the physics.*
-👉 [**Go to Warehouse Physics**](warehouse-physics.md)
+👉 [**Next: The Physics of the Box**](warehouse-physics.md)
 
 
