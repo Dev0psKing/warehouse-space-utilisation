@@ -12,7 +12,11 @@ This project breaks warehouse utilisation down to its fundamentals - **the box (
     TODO: UPLOAD A SCREENSHOT OF YOUR EXCEL DASHBOARD TO assets/screenshots/dashboard.png 
     THEN UNCOMMENT THE LINE BELOW 
 -->
-<!-- ![Dashboard Preview](assets/screenshots/dashboard.png) -->
+ ## **Dashboard Preview**
+ 
+ <img width="1043" height="194" alt="image" src="https://github.com/user-attachments/assets/07081033-e7f3-4bae-a83c-89718ec3b1e6" />
+
+
 
 ---
 
@@ -24,7 +28,7 @@ This project was built to answer two critical questions clearly and separately:
 1.  **Are we running out of pallet slots right now?** (Pallet Capacity)
 2.  **Are we efficiently using the physical volume of the building?** (Cubic Capacity)
 
-By separating **Pallet Position Utilization** from **Cubic Utilization**, this framework helps warehouse and supply chain professionals make better operational and strategic decisions.
+By separating **Pallet Position Utilisation** from **Cubic Utilisation**, this framework helps warehouse and supply chain professionals make better operational and strategic decisions.
 
 ---
 
