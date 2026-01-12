@@ -98,3 +98,66 @@ warehouse-space-utilization/
 │
 └── assets/                # Images
     └── screenshots/
+
+```
+
+- **docs/** → Technical explanations and framework logic  
+- **template/** → Excel utilisation calculator  
+- **assets/** → Visual references (screenshots, diagrams)
+
+---
+
+## 🚀 How to Use This Project
+
+1.  **Review the Theory:** Read `/docs/warehouse-physics.md` to understand the logic.
+2.  **Open the Template:** Download the Excel file from the `/template` folder.
+3.  **Input Data:**
+    - Enter Warehouse dimensions (The Box)
+    - Enter Rack configuration (The Grid)
+    - Enter Inventory counts (The Object)
+4.  **Analyze:** Use the "Dashboard" tab to identify bottlenecks and support redesign decisions.
+
+---
+
+## 📌 Why This Project Matters
+
+Warehouse utiliSation is often misunderstood because volume and slot availability are mixed together.
+
+This framework helps teams:
+- **Stop guessing** about capacity.
+- **Avoid premature expansion** (CapEx avoidance).
+- **Improve storage efficiency** using data, not intuition.
+
+---
+
+## 📄 Related Article
+
+This project is based on the concepts explained in the article:
+
+**A Definitive Guide to Warehouse Utilisation**  
+[Read the full article on Forem](https://forem.com/devopsking/a-definitive-guide-to-warehouse-utilisation-3b33)
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have ideas for better formulas, Python automation scripts, or visualization improvements:
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Open a Pull Request
+
+---
+
+## 👤 Author
+
+**Uwabor**  
+*Building technical solutions for Supply Chain & Logistics.*
+
+*   **Blog:** [Forem](https://forem.com/devopsking)
+*   **Connect:** [LinkedIn](https://linkedin.com/in/collins-uwabor)
+
+---
+
+*Starred this repo? ⭐ Feel free to fork it and adapt it for your own facility!*
+```
