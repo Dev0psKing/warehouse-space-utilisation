@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-stable-green.svg)
 ![Tools](https://img.shields.io/badge/tools-Excel%20%7C%20No%20Macros-success)
 
-A practical, engineering-first approach to understanding and calculating warehouse space utilization using first principles and spreadsheet modeling.
+A practical, engineering-first approach to understanding and calculating warehouse space utilisation using first principles and spreadsheet modeling.
 
 This project breaks warehouse utilisation down to its fundamentals - **the box (warehouse), the grid (racking), and the object (pallet)** - and provides a reusable Excel-based calculator for capacity and utilisation analysis.
 
