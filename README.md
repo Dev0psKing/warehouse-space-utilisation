@@ -6,7 +6,7 @@
 
 A practical, engineering-first approach to understanding and calculating warehouse space utilization using first principles and spreadsheet modeling.
 
-This project breaks warehouse utilisation down to its fundamentals - **the box (warehouse), the grid (racking), and the object (pallet)** - and provides a reusable Excel-based calculator for capacity and utilization analysis.
+This project breaks warehouse utilisation down to its fundamentals - **the box (warehouse), the grid (racking), and the object (pallet)** - and provides a reusable Excel-based calculator for capacity and utilisation analysis.
 
 <!-- 
     TODO: UPLOAD A SCREENSHOT OF YOUR EXCEL DASHBOARD TO assets/screenshots/dashboard.png 
